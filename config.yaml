@@ -1,0 +1,15 @@
+ACCOUNTS: 
+  - USERNAME: user_1
+    BEARER_TOKEN: AAAAAAAAAAAAAAxxxxxxxxxxx
+    CONSUMER_KEY: xKvfBnz0xxxxxxxxxxxxxxxxx
+    CONSUMER_SECRET: aWZe8qZh2Kxxxxxxxxxxxx
+    ACCESS_TOKEN: 1387755xxxxxxxxxxxxxxxxxx
+    ACCESS_TOKEN_SECRET: EiJ8Y3kZxxxxxxxxxx
+    TEXT: "Join guys @mention1 @mention2 #solana #BTC"
+  - USERNAME: user_2
+    BEARER_TOKEN: AAAAAAAAAAAAAAxxxxxxxxxxx
+    CONSUMER_KEY: xKvfBnz0xxxxxxxxxxxxxxxxx
+    CONSUMER_SECRET: aWZe8qZh2Kxxxxxxxxxxxx
+    ACCESS_TOKEN: 1387755xxxxxxxxxxxxxxxxxx
+    ACCESS_TOKEN_SECRET: EiJ8Y3kZxxxxxxxxxx
+    TEXT: "Join guys @mention1 @mention2 #solana #BTC"
